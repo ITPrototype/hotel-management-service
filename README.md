@@ -1,5 +1,5 @@
 <h1>Guide</h1>
-<p>Instalation dependiec<p>
+<p>Programms<p>
 <ul>
   <li>Python</li>
   <li>MySQL</li>
